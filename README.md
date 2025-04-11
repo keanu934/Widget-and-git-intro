@@ -34,3 +34,4 @@
     Merges changes from one branch into another.
 
 this is a change
+this is another change

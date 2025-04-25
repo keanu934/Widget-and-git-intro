@@ -32,3 +32,6 @@
     Downloads changes from the remote, but doesn;t merge them automatically.
 13. `git merge`
     Merges changes from one branch into another.
+
+this is a change
+this is another change
